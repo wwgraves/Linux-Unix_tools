@@ -1,6 +1,6 @@
 # Linux-Unix_tools
 A few little Linux/Unix tools I put together to save time.
-I'm providing 4 files here:
+I'm providing 3 files here:
 1) add_count.csh (this creates a single-column text file of numeric counts)
 2) add_dummy.csh (creates a dummy column of repeating numbers or text)
 3) gravey-utils_1.0.1+0.2_amd64.deb (contains the above 2 files plus a list of dependencies and some other minor tools that may or may not be of interest).
